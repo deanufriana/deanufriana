@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mysilkyheart&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deanufriana&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/deanufriana
 [youtube]: https://www.youtube.com/DeviAdiNufriana
