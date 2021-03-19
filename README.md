@@ -36,9 +36,14 @@
 
 <br />
 
----
+---  
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=deanufriana&count_private=true&show_icons=true">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=deanufriana&count_private=true&show_icons=true" />
+</a>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deanufriana&show_icons=true&hide_border=true" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=deanufriana&hide=php">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=deanufriana&hide=php" />
+</a>
 
 [twitter]: https://twitter.com/deanufriana
 [youtube]: https://www.youtube.com/DeviAdiNufriana
