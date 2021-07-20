@@ -37,13 +37,9 @@
 <br />
 
 ---  
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=deanufriana&count_private=true&show_icons=true">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=deanufriana&count_private=true&show_icons=true" />
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=deanufriana&show_icons=true)
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=deanufriana">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=deanufriana" />
-</a>
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=deanufriana&hide_border=true)
 
 [twitter]: https://twitter.com/deanufriana
 [youtube]: https://www.youtube.com/DeviAdiNufriana
