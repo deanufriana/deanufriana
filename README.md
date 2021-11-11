@@ -16,6 +16,8 @@
 [<img align="left" alt="deanufriana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="deanufriana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="deanufriana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="deanufriana | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+
 
 <br />
 
@@ -45,3 +47,4 @@
 [youtube]: https://www.youtube.com/DeviAdiNufriana
 [instagram]: https://www.instagram.com/deanufriana/
 [linkedin]: https://www.linkedin.com/in/devi-adi-nufriana-6a174a12a/
+[upwork]: https://www.upwork.com/freelancers/~0184d7dce8f8055ca5
